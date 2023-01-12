@@ -1,6 +1,9 @@
 # RLSkinSwapper
 The mod currently uses a console like system, just like in source engine games.
 Here's a list of the current console commands (per plugin):
+
+
+
 plugin load|unload|reload [pluginname]
 bind [key] "[action]" //Binds a key to console action
 exec [filename] //Executes the config file in bakkesmod/cfg/[filename].cfg
