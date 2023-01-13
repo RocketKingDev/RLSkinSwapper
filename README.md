@@ -6,7 +6,7 @@ Here's a list of the current console commands (per plugin):
 
 plugin load|unload|reload [pluginname]
 bind [key] "[action]" //Binds a key to console action
-exec [filename] //Executes the config file in bakkesmod/cfg/[filename].cfg
+exec [filename] //Executes the config file in /cfg/[filename].cfg
 logkeys 0|1 //Log keypresses to console
 writeconfig //When binds are set via console, use this command to make changes permanent (write to config file)
 listmaps //Lists all the maps
